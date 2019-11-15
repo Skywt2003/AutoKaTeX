@@ -13,9 +13,9 @@
 
 ## Usage
 
-下载最新版本的 [release](https://github.com/Skywt2003/AutoKaTeX/releases)（当然只有一个版本 QwQ），上传到 Typecho 插件目录并解压，重命名文件夹为 `AutoKaTeX`使用。
+下载最新版本的 [release](https://github.com/Skywt2003/AutoKaTeX/releases)（当然只有一个版本 QwQ），上传到 Typecho 插件目录并解压。
 
-后台启用插件即可。
+确保文件夹名为 `AutoKaTeX`。Typecho 后台启用插件即可。
 
 ## Note
 
